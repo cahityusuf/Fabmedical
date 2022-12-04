@@ -12,10 +12,10 @@
       "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC31XAeR2BmRRvNLI3lC5g9T5xtsnoGo1C0FZ4TgmxxRtbe28Gj1+fim4oVX0rIXxtjYXp5m9msmU/9uXOeWgGS6fSY29lzsJQ3pK0018OkPUFVB4RYxntIxTBUhFoNWDiRigm3sL2jhlDB5jl+kXV2J/avcvXXpOaspsS0MOELqZEoLsZ8mgowtbxeOhdVGyqEmoLBg58AtkPiz3B/ZcgfAdpCM1WVu8Qx1Khk4ZgBnYY65ZLkBGEUEYS+hoxhqQe8gvYIdAXGnr4rqQFLv6K2UaLUc7sQ5898s1i16l2fxQAetTttLp5RRkTlwMzNUfc6U9iFx7aDHN0Ry2hJodSh admin@fabmedical"
     },
     "CosmosLocation": {
-      "value": "westeurope"
+      "value": "northeurope"
     },
     "CosmosLocationName": {
-      "value": "West Europe"
+      "value": "North Europe"
     },
     "CosmosPairedLocation": {
       "value": "westeurope"
